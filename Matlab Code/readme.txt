@@ -1,4 +1,2 @@
-We have taken the iconic speech by Jawarharlal Nehru for the purpose 
-of demonstrating the different filters' outcome. Wavelet/lowpass/wiener_tryst files
-are the output when the input is passed through respective filters.
-We see best results in when DWT is applied on the incoming audio
+Our MATLAB code for the plots and analysis presented in the report is attached in this folder.
+Along wtih that the audio file used in the code is also present 
